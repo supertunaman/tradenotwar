@@ -1,0 +1,18 @@
+{{ define "body_classes" }}single{{ end }}
+
+{{- define "subheader" }}
+{{- end }}
+
+{{- define "content" }}
+  {{ .Content }}
+{{- end }}
+
+{{ with .Resources.GetMatch "investments.html" }}
+  {{ .Content | safeHTML }}
+{{ end }}
+
+{{- define "comments" }}
+  {{- if ne .Site.Params.disqus "xxxxxxx" }}
+    {{- partial "disqus" . }}
+  {{- end }}
+{{- end }}
