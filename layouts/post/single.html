@@ -5,11 +5,13 @@
 
 {{- define "content" }}
   {{ .Content }}
+  {{ with (.Resources.GetMatch "investments.html") }}
+    <div class="investments">
+      {{ .Content | safeHTML }}
+    </div>
+  {{ end }}
 {{- end }}
 
-{{ with .Resources.GetMatch "investments.html" }}
-  {{ .Content | safeHTML }}
-{{ end }}
 
 {{- define "comments" }}
   {{- if ne .Site.Params.disqus "xxxxxxx" }}
