@@ -1,6 +1,6 @@
 ---
-title: "Example 8"
-description: "This is desc 8"
+title: "Vietnam"
+description: "A Southeast Asian country with a rich and vibrant culture"
 date: 2023-01-05T11:11:11+01:00
 type: "post"
 draft: false

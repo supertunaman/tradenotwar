@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archives on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Archives on My New Hugo Site</description>
+    <title>Conscious Capital Directory on Trade, not war</title>
+    <link>https://tradenotwar.info/posts/</link>
+    <description>Recent content in Conscious Capital Directory on Trade, not war</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 11:11:11 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 11:11:11 +0100</lastBuildDate><atom:link href="https://tradenotwar.info/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example 8</title>
-      <link>http://example.org/posts/example8/</link>
+      <link>https://tradenotwar.info/posts/example8/</link>
       <pubDate>Thu, 05 Jan 2023 11:11:11 +0100</pubDate>
       
-      <guid>http://example.org/posts/example8/</guid>
+      <guid>https://tradenotwar.info/posts/example8/</guid>
       <description>Non, rien de rien
 Non, je ne regrette rien
 Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
@@ -22,10 +22,10 @@ Mambo n°5</description>
     
     <item>
       <title>Example 7</title>
-      <link>http://example.org/posts/example7/</link>
+      <link>https://tradenotwar.info/posts/example7/</link>
       <pubDate>Sat, 07 Aug 2021 11:11:11 +0100</pubDate>
       
-      <guid>http://example.org/posts/example7/</guid>
+      <guid>https://tradenotwar.info/posts/example7/</guid>
       <description>Non, rien de rien
 Non, je ne regrette rien
 Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
@@ -38,10 +38,10 @@ Je me fous du passé !</description>
     
     <item>
       <title>Example 6</title>
-      <link>http://example.org/posts/example6/</link>
+      <link>https://tradenotwar.info/posts/example6/</link>
       <pubDate>Fri, 06 Aug 2021 11:11:11 +0100</pubDate>
       
-      <guid>http://example.org/posts/example6/</guid>
+      <guid>https://tradenotwar.info/posts/example6/</guid>
       <description> Non, rien de rien
 Non, je ne regrette rien
 Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
@@ -51,10 +51,10 @@ first second third </description>
     
     <item>
       <title>Example 5</title>
-      <link>http://example.org/posts/example5/</link>
+      <link>https://tradenotwar.info/posts/example5/</link>
       <pubDate>Thu, 05 Aug 2021 11:11:11 +0100</pubDate>
       
-      <guid>http://example.org/posts/example5/</guid>
+      <guid>https://tradenotwar.info/posts/example5/</guid>
       <description>First Non, rien de rien
 Non, je ne regrette rien
 Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
@@ -67,10 +67,10 @@ Je me fous du passé !</description>
     
     <item>
       <title>Example 4</title>
-      <link>http://example.org/posts/example4/</link>
+      <link>https://tradenotwar.info/posts/example4/</link>
       <pubDate>Wed, 04 Aug 2021 11:11:11 +0100</pubDate>
       
-      <guid>http://example.org/posts/example4/</guid>
+      <guid>https://tradenotwar.info/posts/example4/</guid>
       <description>Non, rien de rien
 Non, je ne regrette rien
 Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
@@ -83,19 +83,19 @@ Je me fous du passé !</description>
     
     <item>
       <title>Example 3</title>
-      <link>http://example.org/posts/example3/</link>
+      <link>https://tradenotwar.info/posts/example3/</link>
       <pubDate>Tue, 03 Aug 2021 11:11:11 +0100</pubDate>
       
-      <guid>http://example.org/posts/example3/</guid>
+      <guid>https://tradenotwar.info/posts/example3/</guid>
       <description>factorial n = go n 1 where go n res | n &amp;gt; 1 = go (n - 1) (res * n) | otherwise = res </description>
     </item>
     
     <item>
       <title>Example 2</title>
-      <link>http://example.org/posts/example2/</link>
+      <link>https://tradenotwar.info/posts/example2/</link>
       <pubDate>Mon, 02 Aug 2021 11:11:11 +0100</pubDate>
       
-      <guid>http://example.org/posts/example2/</guid>
+      <guid>https://tradenotwar.info/posts/example2/</guid>
       <description> Non, rien de rien
 Non, je ne regrette rien
 Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
@@ -104,19 +104,12 @@ first second third </description>
     </item>
     
     <item>
-      <title>Example</title>
-      <link>http://example.org/posts/example/</link>
-      <pubDate>Sun, 01 Aug 2021 11:11:11 +0100</pubDate>
+      <title>Kenya</title>
+      <link>https://tradenotwar.info/posts/kenya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/example/</guid>
-      <description>Non, rien de rien
-Non, je ne regrette rien
-Ni le bien, qu&amp;rsquo;on m&amp;rsquo;a fait
-Ni le mal, tout ça m&amp;rsquo;est bien égal !
-Non, rien de rien
-Non, je ne regrette rien
-C&amp;rsquo;est payé, balayé, oublié
-Je me fous du passé !</description>
+      <guid>https://tradenotwar.info/posts/kenya/</guid>
+      <description>Kenya, located in East Africa, is known for its diverse culture, rich traditions, and vibrant heritage. The country is home to numerous ethnic groups, each contributing to the unique cultural tapestry of Kenya. These diverse ethnicities contribute to the cultural vibrancy of the country. Kenya has a rich tradition of artistic expression. Local artisans create intricate wood carvings, beadwork, pottery, and traditional textiles. Kenya is also known for its high-quality coffee and tea production.</description>
     </item>
     
   </channel>
