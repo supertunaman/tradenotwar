@@ -5,11 +5,107 @@
 
 {{- define "content" }}
   {{ .Content }}
-{{- end }}
+  <div class="col-sm-6 col-md-4 col-lg-3">
+    <div class="project-result">
 
-{{ with .Resources.GetMatch "investments.html" }}
-  {{ .Content | safeHTML }}
-{{ end }}
+        <div class="profile-image-container clearfix">
+            <a class="pull-left profile-image " href="https://www.zidisha.org/loan/plumbing-shop-4"
+                style="background-image:url(https://www.zidisha.org/resize/1968509/large-profile-picture)">
+            </a>
+        </div>
+
+        <div class="project-details  fixed-details-height ">
+            <div class="pre-title kenya">
+                Kenya
+            </div>
+
+            <h4>
+                <a class="feature" href="https://www.zidisha.org/loan/plumbing-shop-4">
+                    Plumbing shop
+                </a>
+            </h4>
+
+            <div class="progress-container">
+                <div class="progress-group">
+                    <p>$182 To Go</p>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0"
+                            aria-valuemax="100" style="width: 0.00%;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+    <div class="project-result">
+
+        <div class="profile-image-container clearfix">
+            <a class="pull-left profile-image " href="https://www.zidisha.org/loan/decor-for-airbnb"
+                style="background-image:url(https://www.zidisha.org/resize/1973257/large-profile-picture)">
+            </a>
+        </div>
+
+        <div class="project-details  fixed-details-height ">
+            <div class="pre-title kenya">
+                Kenya
+            </div>
+
+            <h4>
+                <a class="feature" href="https://www.zidisha.org/loan/decor-for-airbnb">
+                    Decor for airbnb
+                </a>
+            </h4>
+
+            <div class="progress-container">
+                <div class="progress-group">
+                    <p>$182 To Go</p>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="0"
+                            aria-valuemax="100" style="width: 0.00%;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-3">
+    <div class="project-result">
+
+        <div class="profile-image-container clearfix">
+            <a class="pull-left profile-image "
+                href="https://www.zidisha.org/loan/construction-of-prefabricated-servant-quarter-1"
+                style="background-image:url(https://www.zidisha.org/resize/1509062/large-profile-picture)">
+            </a>
+        </div>
+
+        <div class="project-details  fixed-details-height ">
+            <div class="pre-title kenya">
+                Kenya
+            </div>
+
+            <h4>
+                <a class="feature" href="https://www.zidisha.org/loan/construction-of-prefabricated-servant-quarter-1">
+                    Construction of prefabricated servant quarter
+                </a>
+            </h4>
+
+            <div class="progress-container">
+                <div class="progress-group">
+                    <p>$6 To Go</p>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0"
+                            aria-valuemax="100" style="width: 75.00%;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{- end }}
 
 {{- define "comments" }}
   {{- if ne .Site.Params.disqus "xxxxxxx" }}
