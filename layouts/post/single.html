@@ -10,11 +10,6 @@
       {{ .Content | safeHTML }}
     </div>
   {{ end }}
+<p>Portions of this page were created using generative language model technology. We do our best to fact-check all information represented here. Please email <a href="mailto:hello@tradenotwar.info">hello@tradenotwar.info</a> with any corrections.</p>
 {{- end }}
 
-
-{{- define "comments" }}
-  {{- if ne .Site.Params.disqus "xxxxxxx" }}
-    {{- partial "disqus" . }}
-  {{- end }}
-{{- end }}

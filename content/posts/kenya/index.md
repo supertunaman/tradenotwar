@@ -13,5 +13,5 @@ Kenya, located in East Africa, is known for its diverse culture, rich traditions
 - [Kenyan Breakfast Black Tea](https://teaembassy.com/products/kenyan-breakfast-black-tea?_pos=1&_sid=13548a1e7&_ss=r) from Tea Embassy
 - [Kenya Kiandu single-origin coffee](https://wrcoffee.com/products/kenya-kiandu-aa) from White Rock Coffee
 
-## Microfinance Kenyan Projects (via Zidisha.org)
+## Microfinance Kenyan Projects
 
