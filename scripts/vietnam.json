@@ -1,0 +1,23 @@
+{
+  lend {
+    loans(filters: {country: ["VN"], status: fundraising}, limit: 5) {
+      totalCount
+      values {
+        status
+        name
+        id
+        loanAmount
+        whySpecial
+        image {
+          url(presetSize: small)
+        }
+        activity {
+          name
+        }
+        lenders(limit: 0) {
+          totalCount
+        }
+      }
+    }
+  }
+}
