@@ -1,0 +1,14 @@
+name: update-investments
+on:
+  schedule:
+    - cron: '35 * * * *'
+
+jobs:
+  update-investments:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v3
+    - run: bash populate_investments.sh
+    - uses: stefanzweifel/git-auto-commit-action@v4
