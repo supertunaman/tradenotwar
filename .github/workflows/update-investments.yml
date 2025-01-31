@@ -1,7 +1,7 @@
 name: update-investments
-on:
-  schedule:
-    - cron: '35 * * * *'
+#on:
+#  schedule:
+#    - cron: '35 * * * *'
 
 jobs:
   update-investments:
